@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560803920359",
+    "project_id": "phone-main",
+    "storage_bucket": "phone-main.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560803920359:android:9cceb308af8d7c4a6ca542",
+        "android_client_info": {
+          "package_name": "com.example.biometricauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUiiFs8W8hokc-jX7IaujMnzlsKVs9H4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
