@@ -2,7 +2,7 @@
     package="com.example.biometricauthentication">
     <uses-permission android:name="android.permission.SEND_SMS"/>
     <application
-        android:label="biometricauthentication"
+        android:label="BioAuth"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
